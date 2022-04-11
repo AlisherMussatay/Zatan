@@ -3,6 +3,8 @@ Room for ICT
 my_list = ["leaf", "cherry", "fish"]
 my_list1 = ["D","C","B","A"]
 my_list2 = [1,2,3,4,5]
+#cancel
+#bla-bla-bla
 
 my_list.sort() # ['cherry', 'fish', 'leaf']
 my_list1.sort() # ['A', 'B', 'C', 'D']
